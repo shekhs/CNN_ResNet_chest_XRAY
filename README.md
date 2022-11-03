@@ -1,0 +1,2 @@
+# CNN_ResNet_chest_XRAY
+CNN_ResNet_chest_XRAY
